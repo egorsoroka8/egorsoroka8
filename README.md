@@ -7,7 +7,7 @@
 
 ### My Testing Documentation  :card_file_box:
 
- [![Header](https://img.shields.io/badge/Checklists-D3D3D3?style=for-the-badge&)](https://github.com/egorsoroka8/checklist)
+ [![Header](https://img.shields.io/badge/Checklists-D3D3D3?style=for-the-badge&)](https://github.com/egorsoroka8/checklists)
  [![Header](https://img.shields.io/badge/Test_cases-D3D3D3?style=for-the-badge&)](https://github.com/egorsoroka8/testcases)
  [![Header](https://img.shields.io/badge/Bug_reports-D3D3D3?style=for-the-badge&)](https://github.com/egorsoroka8/bug-reports)
  [![Header](https://img.shields.io/badge/SQL_Queries-D3D3D3?style=for-the-badge&)](https://github.com/egorsoroka8/SQL)
