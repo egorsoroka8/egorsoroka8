@@ -1,11 +1,11 @@
 [![Header]
-## Hello there, my name is Egor 
-## I am Junior Manual QA Engineer
-### I am currently look for intership
+## Hello there, my name is Egor :wave:
+## I am Junior Manual QA Engineer :technologist:
+### I am currently look for intership :mag:
 ### Tap [here](https://drive.google.com/file/d/1XPKdwGY0a8s594yx7r4ZGAuw-Ya1oAmW/view?usp=sharing) to look at me CV
 
 
-### Testing Documentation
+### Testing Documentation :card_file_box:
 
 - [Checklists](https://github.com/egorsoroka8/checklist)
 - [Test-Suites and Test-Cases](https://github.com/egorsoroka8/test-cases)
