@@ -1,7 +1,17 @@
 [![Header]
-## I'm a QA Junior Engineer
-### I'm looking for career start
-### My CV :    [link](https://drive.google.com/file/d/1XPKdwGY0a8s594yx7r4ZGAuw-Ya1oAmW/view?usp=sharing)
+## Hello there, my name is Egor 
+## I am Junior Manual QA Engineer
+### I am currently look for intership
+### Tap [here](https://drive.google.com/file/d/1XPKdwGY0a8s594yx7r4ZGAuw-Ya1oAmW/view?usp=sharing) to look at me CV
+
+
+### Testing Documentation
+
+- [Checklists](https://github.com/egorsoroka8/checklist)
+- [Test-Suites and Test-Cases](https://github.com/egorsoroka8/test-cases)
+- [Bug-Reports](https://github.com/egorsoroka8/bug-reports)
+- [SQL Queries](https://github.com/egorsoroka8/SQL)
+- [Postman Collections](https://github.com/egorsoroka8/postman)
 
 
 ### Tools
@@ -12,13 +22,7 @@
 ![Header](https://img.shields.io/badge/DevTools-D3D3D3?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
 
 
-### Testing Documentation
 
-- [Checklists](https://github.com/egorsoroka8/checklist)
-- [Test-Suites and Test-Cases](https://github.com/egorsoroka8/test-cases)
-- [Bug-Reports](https://github.com/egorsoroka8/bug-reports)
-- [SQL Queries](https://github.com/egorsoroka8/SQL)
-- [Postman Collections](https://github.com/egorsoroka8/postman)
 
 ### Contact Me
 [![Header](https://img.shields.io/badge/Telegram-D3D3D3?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/egorsoroka)
