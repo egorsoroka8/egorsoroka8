@@ -1,4 +1,4 @@
-[![Header]
+![Header](https://github.com/egorsoroka8/egorsoroka8/blob/main/github.png)
 ## Hello there, my name is Egor  :wave: 
 ### I am Junior Manual QA Engineer  :technologist: 
 ### I am currently look for intership  :mag:
