@@ -2,7 +2,7 @@
 ## Hello there, my name is Egor  :wave: 
 ### I am Manual Junior QA Engineer  :technologist: 
 ### And I am currently looking for intership  :mag:
-### Tap [here](https://drive.google.com/file/d/1XPKdwGY0a8s594yx7r4ZGAuw-Ya1oAmW/view?usp=sharing) to look at me CV  :scroll:
+### My [CV](https://drive.google.com/file/d/1ZTYKfAiJ6iyPDVP25RxU21PMlgufaaMV/view?usp=sharing), [Portfolio](https://drive.google.com/file/d/1prgm7a5QBDJNNPCHvUBailgpHrwWOGM_/view?usp=sharing) and [Certificate](https://drive.google.com/file/d/1eIPiYFBTuHC8H7zhf4eAdt7A8IDrrEt6/view?usp=sharing) :scroll:
 ---------------------------------------------------------------------
 
 ### My Testing Documentation  :card_file_box:
