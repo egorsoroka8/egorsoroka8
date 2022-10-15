@@ -1,4 +1,4 @@
-![Header](https://github.com/egorsoroka8/egorsoroka8/blob/main/github_logo.png)
+![Header](https://github.com/egorsoroka8/egorsoroka8/blob/main/github-logo.png)
 ## Hello there, my name is Egor  :wave: 
 ### I am Manual Junior QA Engineer  :technologist: 
 ### And I am currently looking for intership  :mag:
