@@ -23,7 +23,7 @@
 ![Header](https://img.shields.io/badge/Github-D3D3D3?style=for-the-badge&logo=github&logoColor=090909)
 ![Header](https://img.shields.io/badge/MySQL-D3D3D3?style=for-the-badge&logo=mysql&logoColor=00618a)
 ![Header](https://img.shields.io/badge/DevTools-D3D3D3?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
-
+![Header](https://img.shields.io/badge/Charles_Proxy-D3D3D3?style=for-the-badge&)
 
 
 -------------------------------------------------------------------------
