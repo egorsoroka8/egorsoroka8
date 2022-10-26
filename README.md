@@ -1,6 +1,6 @@
 ![Header](https://github.com/egorsoroka8/egorsoroka8/blob/main/github-logo.png)
 ## Hello there, my name is Egor  :wave: 
-### I am Manual Junior QA Engineer  :technologist: 
+### I am Junior Manual QA Engineer  :technologist: 
 ### And I am currently looking for intership  :mag:
 ### My CV, Portfolio and Certificate [ENG](https://drive.google.com/drive/folders/1ms6QPEK3dK6Cqm3v5j-dHTSr6mb_HprM?usp=sharing) [RUS](https://drive.google.com/drive/folders/17XtqI6MEhoMDbSFz2GK7eJZm9BT-zWPn?usp=sharing) :scroll:
 ---------------------------------------------------------------------
