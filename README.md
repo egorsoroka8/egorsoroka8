@@ -10,8 +10,8 @@
  - [Checklists](https://github.com/egorsoroka8/checklists)
  - [Test cases](https://github.com/egorsoroka8/testcases)
  - [Bug reports](https://github.com/egorsoroka8/bug-reports)
- - [SQL](https://github.com/egorsoroka8/SQL)
- - [Postman](https://github.com/egorsoroka8/postman)
+ - [SQL Queries](https://github.com/egorsoroka8/SQL)
+ - [Postman Collections](https://github.com/egorsoroka8/postman)
  
 
 -----------------------------------------------------------------------
