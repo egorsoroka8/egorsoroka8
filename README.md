@@ -9,6 +9,7 @@
  - [Checklists](https://github.com/egorsoroka8/checklists)
  - [Test cases](https://github.com/egorsoroka8/testcases)
  - [Bug reports](https://github.com/egorsoroka8/bug-reports)
+ - [Charles Proxy](https://github.com/egorsoroka8/charlesproxy)
  - [SQL Queries](https://github.com/egorsoroka8/SQL)
  - [Postman Collections](https://github.com/egorsoroka8/postman)
  
