@@ -1,8 +1,7 @@
-![Header](https://github.com/egorsoroka8/egorsoroka8/blob/main/github-logo.png)
 ## Hello there, my name is Egor  :wave: 
 ### I am QA Engineer  :technologist: 
 ### And I am currently looking for a job  :mag:
-### My CV, Portfolio and Certificate [ENG](https://drive.google.com/drive/folders/1ms6QPEK3dK6Cqm3v5j-dHTSr6mb_HprM?usp=sharing) [RUS](https://drive.google.com/drive/folders/17XtqI6MEhoMDbSFz2GK7eJZm9BT-zWPn?usp=sharing) :scroll:
+### My CV(https://egorsoroka8.github.io/)
 ---------------------------------------------------------------------
 
 ### My Testing Documentation  :card_file_box:
