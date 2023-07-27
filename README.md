@@ -1,7 +1,6 @@
 ## Hello there, my name is Egor  :wave: 
 ### I am QA Engineer  :technologist: 
 ### And I am currently looking for a job  :mag:
-### You can find my CV by [link](https://egorsoroka8.github.io/)
 ---------------------------------------------------------------------
 
 ### My Testing Documentation  :card_file_box:
