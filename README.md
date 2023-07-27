@@ -5,7 +5,7 @@
 
 ### My Testing Documentation  :card_file_box:
 
- - [Postman Collections](https://github.com/egorsoroka8/postman)
+ - [Postman Collections](https://www.postman.com/egorsoroka/workspace/dummy-api/overview)
  - [SQL Queries](https://github.com/egorsoroka8/SQL)
  - [Charles Proxy](https://github.com/egorsoroka8/charlesproxy)
 
