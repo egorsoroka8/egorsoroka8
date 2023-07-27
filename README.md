@@ -8,9 +8,6 @@
  - [Postman Collections](https://github.com/egorsoroka8/postman)
  - [SQL Queries](https://github.com/egorsoroka8/SQL)
  - [Charles Proxy](https://github.com/egorsoroka8/charlesproxy)
- - [Checklists](https://github.com/egorsoroka8/checklists)
- - [Test cases](https://github.com/egorsoroka8/testcases)
- - [Bug reports](https://github.com/egorsoroka8/bug-reports)
 
 
 
