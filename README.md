@@ -3,7 +3,7 @@
 ### And I am currently looking for a job  :mag:
 ---------------------------------------------------------------------
 
-### My Testing Documentation  :card_file_box:
+### My Testing Portfolio  :card_file_box:
 
  - [Playwright Auto Test](https://github.com/egorsoroka8/saucelabs)
  - [Postman Collections](https://www.postman.com/egorsoroka/workspace/dummy-api/overview)
