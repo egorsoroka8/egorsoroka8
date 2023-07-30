@@ -5,7 +5,7 @@
 
 ### My Testing Portfolio  :card_file_box:
 
- - [Playwright Auto Test](https://github.com/egorsoroka8/saucelabs)
+ - [Playwright Auto Tests](https://github.com/egorsoroka8/saucelabs)
  - [Postman Collections](https://www.postman.com/egorsoroka/workspace/dummy-api/overview)
  - [SQL Queries](https://github.com/egorsoroka8/SQL)
  - [Charles Proxy](https://github.com/egorsoroka8/charlesproxy)
