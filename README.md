@@ -20,10 +20,8 @@
 ### Tools  :hammer:
 ![Header](https://img.shields.io/badge/Jira-D3D3D3?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/JAVASCRIPT-D3D3D3?style=for-the-badge&logo=javascript&logoColor=090909)
-
 ![Header](https://img.shields.io/badge/Postman-D3D3D3?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/git-D3D3D3?style=for-the-badge&logo=git&logoColor=090909)
-![Header]()
 ![Header](https://img.shields.io/badge/Playwright-D3D3D3?style=for-the-badge&logo=playwright&logoColor=090909)
 ![Header](https://img.shields.io/badge/PostgreSQL-D3D3D3?style=for-the-badge&logo=postgresql&logoColor=090909)
 ![Header](https://img.shields.io/badge/DevTools-D3D3D3?style=for-the-badge&logo=googlechrome&logoColor=2674f2)
